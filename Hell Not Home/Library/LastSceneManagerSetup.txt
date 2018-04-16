@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/Zombie Shooter lvl 1.unity
+- path: Assets/Scenes/Hell Not Home Demo Level.unity
   isLoaded: 1
   isActive: 1
