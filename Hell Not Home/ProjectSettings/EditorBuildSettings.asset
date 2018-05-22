@@ -4,4 +4,10 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 86d01ebc45507484d9dc8a180c422761
+  - enabled: 1
+    path: Assets/Scenes/Hell Not Home Demo Level.unity
+    guid: 685e3e2705c8808448370a08e285e810

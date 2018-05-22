@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
+# Visual Studio 2017
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hell Not Home", "Hell Not Home.csproj", "{D5783C6D-2BD5-0877-101A-8A10319516B9}"
 EndProject
 Global

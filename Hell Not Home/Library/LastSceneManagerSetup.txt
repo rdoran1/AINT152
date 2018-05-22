@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/Hell Not Home Demo Level.unity
+- path: Assets/Scenes/MainMenu.unity
   isLoaded: 1
   isActive: 1
