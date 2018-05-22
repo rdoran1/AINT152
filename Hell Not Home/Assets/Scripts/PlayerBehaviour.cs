@@ -9,9 +9,21 @@ public class PlayerBehaviour : MonoBehaviour
 
     public int health = 50;
 
+    bool playSound = false;
+
     private void Start()
     {
         SendHealthData();
+    }
+
+    private void Update()
+    {
+        if(Input.GetKeyDown("w") || Input.GetKeyDown("a") || Input.GetKeyDown("s") || Input.GetKeyDown("d"))
+        {
+
+                GetComponent<AudioSource>().Play();
+
+        }
     }
 
     public void TakeDamage(int damage)
