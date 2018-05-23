@@ -9,8 +9,6 @@ public class PlayerBehaviour : MonoBehaviour
 
     public int health = 50;
 
-    bool playSound = false;
-
     private void Start()
     {
         SendHealthData();
